@@ -27,10 +27,6 @@ scheduler_events = {
 }
 
 # Include JS files for doctype views
-# doctype_js = {
-# 	"Lead": "public/js/lead_sla_warning.js",
-# 	"Opportunity": "public/js/opportunity_sla_warning.js"
-# }
 
 # Fixtures
 fixtures = [
